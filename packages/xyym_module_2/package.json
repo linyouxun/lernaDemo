@@ -2,5 +2,6 @@
   "name": "module_2",
   "version": "0.0.1-alpha.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "b37fca1b0bfec2c066c6eb9ae35093d1bd14ec1b"
 }

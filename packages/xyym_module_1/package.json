@@ -3,5 +3,8 @@
   "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "7e483d71eb385c68910c7b38c62d5c47ea9d20c4"
+  "gitHead": "7e483d71eb385c68910c7b38c62d5c47ea9d20c4",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }

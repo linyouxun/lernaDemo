@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "pre-commit": 'echo "test" && cd $(git rev-parse --show-toplevel) && lint-staged'
+  }
+}

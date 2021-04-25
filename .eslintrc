@@ -1,7 +1,4 @@
 {
-    "extends": ["react-app"],
-    "rules": {
-      "import/first": 0
-    }
-  }
+    "extends": ["react-app"]
+}
   
